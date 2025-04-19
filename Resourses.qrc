@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>Play.svg</file>
+        <file>Suspend.svg</file>
+        <file>Next.svg</file>
+        <file>Pre.svg</file>
+        <file>Volumn.svg</file>
+        <file>setting2.svg</file>
+        <file>setting1.svg</file>
+        <file>Slience.svg</file>
+        <file>ModeChange.svg</file>
+        <file>ModeChanged.svg</file>
+        <file>CurrentItemInLoop.svg</file>
+        <file>CurrentItemOnce.svg</file>
+        <file>Loop.svg</file>
+        <file>Random.svg</file>
+        <file>Sequential.svg</file>
+        <file>MainWindow.svg</file>
+        <file>About.svg</file>
+        <file>Help.svg</file>
+    </qresource>
+    <qresource prefix="/new/mainwindow">
+        <file>bg2.png</file>
+        <file>bg3.png</file>
+        <file>bg4.png</file>
+        <file>noImage.png</file>
+        <file>Loading.jpg</file>
+        <file>icon.png</file>
+        <file>bg1.png</file>
+    </qresource>
+</RCC>
